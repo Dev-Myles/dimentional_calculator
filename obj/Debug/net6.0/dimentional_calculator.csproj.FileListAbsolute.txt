@@ -1,0 +1,15 @@
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\bin\Debug\net6.0\dimentional_calculator.exe
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\bin\Debug\net6.0\dimentional_calculator.deps.json
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\bin\Debug\net6.0\dimentional_calculator.runtimeconfig.json
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\bin\Debug\net6.0\dimentional_calculator.dll
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\bin\Debug\net6.0\dimentional_calculator.pdb
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\obj\Debug\net6.0\dimentional_calculator.csproj.AssemblyReference.cache
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\obj\Debug\net6.0\dimentional_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\obj\Debug\net6.0\dimentional_calculator.AssemblyInfoInputs.cache
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\obj\Debug\net6.0\dimentional_calculator.AssemblyInfo.cs
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\obj\Debug\net6.0\dimentional_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\obj\Debug\net6.0\dimentional_calculator.dll
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\obj\Debug\net6.0\refint\dimentional_calculator.dll
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\obj\Debug\net6.0\dimentional_calculator.pdb
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\obj\Debug\net6.0\dimentional_calculator.genruntimeconfig.cache
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\obj\Debug\net6.0\ref\dimentional_calculator.dll

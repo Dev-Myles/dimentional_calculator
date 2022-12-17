@@ -1,0 +1,15 @@
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\bin\Debug\net6.0\console_app_classes.exe
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\bin\Debug\net6.0\console_app_classes.deps.json
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\bin\Debug\net6.0\console_app_classes.runtimeconfig.json
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\bin\Debug\net6.0\console_app_classes.dll
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\bin\Debug\net6.0\console_app_classes.pdb
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\obj\Debug\net6.0\console_app_classes.csproj.AssemblyReference.cache
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\obj\Debug\net6.0\console_app_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\obj\Debug\net6.0\console_app_classes.AssemblyInfoInputs.cache
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\obj\Debug\net6.0\console_app_classes.AssemblyInfo.cs
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\obj\Debug\net6.0\console_app_classes.csproj.CoreCompileInputs.cache
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\obj\Debug\net6.0\console_app_classes.dll
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\obj\Debug\net6.0\refint\console_app_classes.dll
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\obj\Debug\net6.0\console_app_classes.pdb
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\obj\Debug\net6.0\console_app_classes.genruntimeconfig.cache
+C:\Users\Dev_Myles\Desktop\githubrepos\console_app_classes\obj\Debug\net6.0\ref\console_app_classes.dll
