@@ -1,9 +1,11 @@
-﻿namespace dimentional_calculator.stack
+﻿
+
+namespace dimentional_calculator.stack
 {
     public class History
     {
 
-        public Stack<string> history = new Stack<string>(new string[] { "StartMenu" });
+        public Stack<string> history = new Stack<string>(new string[] { "start_page" });
 
         public string GetCurrentPage()
         {

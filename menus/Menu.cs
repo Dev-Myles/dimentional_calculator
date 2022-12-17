@@ -27,29 +27,8 @@ namespace dimentional_calculator.menus
        };
     }
 
-    public class StartMenu
-    {
-        public string direction = "Please select an option:";
-        public string[] options = {
-            "Calculate",
-            "Recent Calculations",
-            "Exit"
-            };
-    }
-
     public class MenuFunctions
     {
-
-        public void RenderHeader(string currentPage, string getHistory)
-        {
-            Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine($"Dimentional Calculator - {currentPage}");
-            Console.WriteLine($"{getHistory}");
-            Console.ForegroundColor = ConsoleColor.White;
-
-        }
-
-
 
 
     }

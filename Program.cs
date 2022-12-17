@@ -1,23 +1,25 @@
 ﻿using dimentional_calculator.menus;
+using dimentional_calculator.pages;
+using dimentional_calculator.stack;
 
 public class App
 {
+
+
     static void Main(string[] args)
     {
         Console.ForegroundColor = ConsoleColor.Yellow;
         Console.WriteLine("Welcome to the Dimentional Calculator!");
-        MenuFunctions.RenderMenu();
+        Thread.Sleep
+            (2000);
 
+        History appHistory = new();
+        MenuFunctions menuFunctions = new MenuFunctions();
+        Page page = new Page();
 
+        string currentPage = appHistory.GetCurrentPage();
 
-
-    }
-
-    public static void AppHeader(string currentPage)
-    {
-        Console.ForegroundColor = ConsoleColor.Cyan;
-        Console.WriteLine($"Dimentional Calculator - {currentPage}");
-        Console.ForegroundColor = ConsoleColor.White;
+        page.RenderPage(currentPage, appHistory.WriteHistory());
 
     }
 }
